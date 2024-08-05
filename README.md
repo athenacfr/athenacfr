@@ -1,13 +1,11 @@
 About
 =====
 
-<img align="right" height="180em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athenacfr&layout=compact&theme=catppuccin_mocha" />
-
 I'm a **front-end developer** specializing in UI/UX. Proficient in TypeScript, React, React Native, Next.js, Tailwind, Firebase, GraphQL, Docker, Express, NestJS, and databases such as MySQL, Postgresql and MongoDB.
 
 You can find me at <athenacfr@gmail.com> or via [Linkedin](https://www.linkedin.com/in/athenafreitas).
 
-<br clear="right"/>
+<img height="180em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athenacfr&layout=compact&theme=catppuccin_mocha" />
 
 Experience
 ==========
