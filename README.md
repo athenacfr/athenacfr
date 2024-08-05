@@ -5,7 +5,9 @@ I'm a **front-end developer** specializing in UI/UX. Proficient in TypeScript, R
 
 You can find me at <athenacfr@gmail.com> or via [Linkedin](https://www.linkedin.com/in/athenafreitas).
 
-<img height="180em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athenacfr&layout=compact&theme=catppuccin_mocha" />
+<div align="right">
+    <img height="180em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athenacfr&layout=compact&theme=catppuccin_mocha" />
+</div>
 
 Experience
 ==========
