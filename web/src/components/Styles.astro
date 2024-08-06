@@ -9,6 +9,7 @@ import "github-markdown-css/github-markdown.css";
     max-width: 980px;
     margin: 0 auto;
     padding: 45px;
+    font-size: 14px;
   }
 
   @media (max-width: 767px) {
@@ -21,6 +22,18 @@ import "github-markdown-css/github-markdown.css";
     .no-print,
     .no-print * {
       display: none !important;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h4,
+    h5,
+    h6,
+    h7 {
+      page-break-before: auto;
+      page-break-after: avoid;
     }
   }
 </style>

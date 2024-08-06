@@ -5,7 +5,7 @@ languageLabel: "English"
 language: "en"
 ---
 
-# About
+# Athena Freitas
 
 I'm a **front-end developer** specializing in UI/UX. Proficient in TypeScript, React, React Native, Next.js, Tailwind, Firebase, GraphQL, Docker, Express, NestJS, and databases such as MySQL, Postgresql and MongoDB.
 

@@ -5,7 +5,7 @@ languageLabel: "Português Brasileiro"
 language: "pt-br"
 ---
 
-# Sobre
+# Athena Freitas
 
 Sou uma **desenvolvedora front-end** com foco em UI/UX. Proficiente em TypeScript, React, React Native, Next.js, Tailwind, Firebase, GraphQL, Docker, Express, NestJS e bancos de dados como MySQL, PostgreSQL e MongoDB.
 
