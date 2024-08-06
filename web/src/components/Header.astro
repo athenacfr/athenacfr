@@ -21,11 +21,12 @@ const printButtonLabel = (
   import confetti from "canvas-confetti";
 
   const printPage = () => {
-    window.print();
     confetti({
+      disableForReducedMotion: true,
       particleCount: 100,
       spread: 160,
     });
+    setTimeout(() => window.print(), 250);
   };
 
   const [button] = document.querySelectorAll("[data-print-button]");
@@ -54,5 +55,13 @@ const printButtonLabel = (
     display: flex;
     gap: 16px;
     justify-content: center;
+  }
+</style>
+
+<style is:global>
+  @media print {
+    canvas {
+      display: none;
+    }
   }
 </style>
