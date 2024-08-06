@@ -12,4 +12,4 @@ You can find me at <athenacfr@gmail.com>, [Linkedin](https://www.linkedin.com/in
 
 # 🔗 Links
 
-- [Curriculum Vitae - CV](https://athenacfr.github.io/athenacfr)
+- [Curriculum Vitae - CV](https://athenacfr.github.io/athenacfr/en)
