@@ -2,7 +2,8 @@ import { defineConfig } from "astro/config";
 
 export default defineConfig({
   site: "https://athenacfr.github.io",
+  base: "athenacfr",
   redirects: {
-    "/": "/en",
+    "/": "/athenacfr/en",
   },
 });
