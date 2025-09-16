@@ -1,6 +1,6 @@
 # 📝 About
 
-I am an **interface developer** (web and mobile) with a focus on UI/UX, within that my stack includes **TypeScript**, **React**, **React Native**, **Tailwind** and **Graphql**.
+I am an **product developer** with a focus on UI/UX, within that my stack includes **TypeScript**, **React**, **React Native**, **Tailwind** and **Graphql**.
 
 You can checkout my [📄 Resume](https://athenacfr.github.io/curriculum/)! Or find me at <athenacfr@gmail.com>, [Linkedin](https://www.linkedin.com/in/athenafreitas) and [Github](https://github.com/athenacfr). 
 
