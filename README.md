@@ -1,13 +1,11 @@
-# 📝 About
+I am like solving DX and UX problems.
+You can find me at <athenacfr@gmail.com> and [Linkedin](https://www.linkedin.com/in/athenafreitas).
 
-I am an **product developer** with a focus on UI/UX, within that my stack includes **TypeScript**, **React**, **React Native**, **Tailwind** and **Graphql**.
+### Projects
 
-You can find me at <athenacfr@gmail.com>, [Linkedin](https://www.linkedin.com/in/athenafreitas) and [Github](https://github.com/athenacfr). 
+- **[iara](https://github.com/inspira-legal/iara)** — An IDE built around claude code for multi-repo and worktree paralalization.
+- **[magia-api](https://github.com/athenacfr/magia-api)** — An opinated plug-n-play magical codegen built for REST and Graphql.
 
+### Other stuff
 
-## ⭐ Github Stats
-
-<div align="center">
-    <img height="180em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athenacfr&layout=compact&theme=catppuccin_mocha" />
-</div>
-
+- **[fluentlevel](https://github.com/athenacfr/fluentlevel)** — An app for learning English in the community and by yourself!
